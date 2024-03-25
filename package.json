@@ -9,7 +9,7 @@
     "url": "https://github.com/mbuettner/hexagonal-life"
   },
   "dependencies": {
-    "express": "4.13.4",
+    "express": "4.19.2",
     "morgan": "1.7.0"
   },
   "engine": "node 5.9.0"
